@@ -9,17 +9,5 @@ public class hotro {
 //        usa= scanner.nextDouble();
 //        double quydoi= usa*23000;
 //        System.out.println("gia tri vnd laf "+quydoi);
-        int a = 5;
-        int b=1;
-        if(a == 5) {
-
-            ++a;
-
-             b = a++*5;
-        }
-
-        System.out.println(a);
-
-        System.out.println(b);
     }
 }
